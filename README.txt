@@ -8,6 +8,9 @@ SoapUI ou o Chrome Advanced Rest Client).
 Para realizar os testes, utilize o servidor de IP: 18.191.250.94
 (servidor cloud Amazon EC2 gratuito).
 
+Os resultados serão apresentados em XML para uma melhor visualização
+via browser.
+
 A lista de serviços disponíveis é:
 
 Método GET:
